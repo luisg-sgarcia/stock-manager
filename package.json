@@ -1,0 +1,23 @@
+{
+  "name": "stock-manager",
+  "version": "1.0.0",
+  "description": "Um sistema de gerenciamento de estoque genérico, desenvolvido para atender empresas de diferentes portes e segmentos. O objetivo é permitir o controle eficiente de produtos, entradas, saídas e quantidades disponíveis, ajudando a otimizar o processo de gestão de inventário.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luisg-sgarcia/stock-manager.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luisg-sgarcia/stock-manager/issues"
+  },
+  "homepage": "https://github.com/luisg-sgarcia/stock-manager#readme",
+  "dependencies": {
+    "jquery": "^3.7.1"
+  }
+}
